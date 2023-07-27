@@ -1,12 +1,11 @@
-# Web Environment Integrity API
+# Fox
 
-This repository details the proposal to add a new API for determining the integrity
-of web environments:
+Fox
 
 ```js
-const attestation = await navigator.getEnvironmentIntegrity("...");
+const fox = await fox;
 ```
 
-The [explainer](./explainer.md) goes gives a high level overview of the proposal.
+Fox
 
-The [spec](https://rupertbenwiser.github.io/Web-Environment-Integrity/) currently describes how this is being prototyped in Chromium.
+Fox
